@@ -25,6 +25,7 @@
 #     print("Por favor, digite um número válido!")
 
 print("Bem-vindo ao Elevador Python!")
+print("O elevador tem limite máximo de 5 cinco pessoas ou 550kg")
 andar_atual = 0
 while True:
     try:
